@@ -1,0 +1,15 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fiver{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.fiver .my-3{
+    flex: 1;
+}
